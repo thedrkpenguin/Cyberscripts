@@ -1,4 +1,3 @@
-#This is for Python 2.X
 from scapy.all import *
 import os
 import sys
